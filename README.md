@@ -2,7 +2,7 @@
 
 **Bring an AI agent into Obsidian to work with your notes, files, and voice.**
 
-MotusAI Agent connects your Obsidian vault to the Agent Harness running in [MotusAI Seed](https://github.com/agimx-ai). It gives you an AI workspace inside Obsidian where you can ask questions, work with notes and attachments, organize knowledge, and carry out multi-step tasks.
+MotusAI Agent connects your Obsidian vault to the Agent Harness running in [MotusAI Seed](https://motusseed.com). It gives you an AI workspace inside Obsidian where you can ask questions, work with notes and attachments, organize knowledge, and carry out multi-step tasks.
 
 > MotusAI Agent is a desktop-only companion for MotusAI Seed. MotusAI Seed must be installed and running, with its official **Agent Harness** plugin enabled.
 
