@@ -1,25 +1,19 @@
-# MotusAI Agent
+## Work with your vault through MotusAI Seed
 
-English · [简体中文](README.zh-CN.md)
+Bring conversations and agent-powered work into Obsidian. Use your notes, files and selected preview content as context while staying in control of every action.
 
-Use MotusAI Seed directly in Obsidian to work with your notes, files and ideas.
+## Highlights
 
-[Website](https://motusseed.com) · [Latest release](https://github.com/agimx-ai/motusai-obsidian-agent/releases/latest)
-
-> Requires Obsidian Desktop and [MotusAI Seed](https://motusseed.com) with the official **Agent Harness** plugin enabled.
-
-## What you can do
-
-- Chat, work on a task or pursue a longer-running goal without leaving Obsidian.
-- Use Vault notes, files and selected preview content as context.
+- Choose **Chat**, **Work** or **Goal** for the way you want to collaborate.
+- Reference notes and files without leaving your vault.
+- Annotate selected preview content and send it with your message.
 - Review tool activity and approve sensitive actions before they run.
-- Switch between the models configured in MotusAI Seed.
-- Resume previous conversations for each Vault.
+- Switch between configured models and continue previous conversations.
 
 ## Get started
 
-1. Start MotusAI Seed and enable **Agent Harness**.
-2. Configure a model in Agent Harness.
-3. Install and enable **MotusAI Agent** from Obsidian's Community Plugins.
+1. Install and enable **MotusAI Agent** from Obsidian's Community Plugins.
+2. Start [MotusAI Seed](https://motusseed.com), then add and enable **Agent Harness**.
+3. Configure a model in Agent Harness.
 4. Open MotusAI Agent from the ribbon or the command palette.
-5. Approve the local connection when MotusAI Seed asks.
+5. Approve the connection when MotusAI Seed asks.
