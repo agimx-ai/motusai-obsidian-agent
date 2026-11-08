@@ -32,6 +32,8 @@ With a drawing open, use the annotation button at the top right of the conversat
 
 ## Share as webpage
 
-Enable **Web Publishing** in Seed. It connects automatically and restores existing shares when Seed starts. Right-click a Markdown note or folder and choose **Share as webpage**. Choose a theme, check the documents and referenced images, preview the page, then select **Generate link** and **Copy link** on the success screen. Markdown documents added to a shared folder later are included automatically; excluded documents stay private.
+Enable **Web Publishing** in Seed. It connects automatically and restores existing shares when Seed starts. Right-click a Markdown, image, HTML, Canvas, or Excalidraw file, or a folder, and choose **Share as webpage**. Review the files and references, preview, then select **Generate link** and **Copy link** on the success screen. Markdown supports article themes, images support zoom and fullscreen, webpages retain their styles and browser scripts, and drawings provide read-only pan and zoom.
 
-Documents and images stay on your computer. Keep Seed and Web Publishing running and online so readers can use the link; Obsidian can close after you save. Preview links expire after ten minutes. Published links can be cancelled in the sharing panel, but content readers already obtained cannot be recalled.
+Referenced local files, including files outside your vault, are shared automatically without extra confirmation; other attachment types are available to download. New folder shares include supported files added later, and exclusions still apply. Existing Markdown folder links retain their original scope; create a new folder link to include other supported formats.
+
+Documents, images, and attachments stay on your computer. Keep Seed and Web Publishing running and online so readers can use the link; Obsidian can close after you save. Preview links expire after ten minutes. Published links can be cancelled in the sharing panel, but content readers already obtained cannot be recalled.
