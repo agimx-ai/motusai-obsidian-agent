@@ -30,6 +30,10 @@ Enable the **Canvas** plugin in Seed, then describe a drawing in Work or Goal mo
 
 With a drawing open, use the annotation button at the top right of the conversation to select shapes or text, add a change request and send it with your next message.
 
+## Resize table columns
+
+In Live Preview or Reading View, hover over the right edge of a Markdown table header and drag to resize its column. Double-click the edge to restore the table's default widths. Widths are saved locally in the plugin settings, leaving the Markdown unchanged. You can turn this off in MotusAI Agent settings. This feature also works with Seed closed.
+
 ## Share as webpage
 
 Enable **Web Publishing** in Seed. It connects automatically and restores existing shares when Seed starts. Right-click a Markdown, image, HTML, Canvas, or Excalidraw file, or a folder, and choose **Share as webpage**. Review the files and references, preview, then select **Generate link** and **Copy link** on the success screen. Markdown supports article themes, images support zoom and fullscreen, webpages retain their styles and browser scripts, and drawings provide read-only pan and zoom.
